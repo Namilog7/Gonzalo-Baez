@@ -3,13 +3,10 @@
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30"> ¡Hola! Soy Gonzalo Baez <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30">
 </h1>
 
-<!-- Sección de aprendizaje actual -->
-## 🌱 Actualmente estoy aprendiendo Next.js y TailwindCSS
-
 
 <!-- Sección de temas para preguntar -->
 ## 💬 Pregúntame sobre
-JavaScript | TypeScript | NodeJS | PostgresSQL | Sequelize | React | Redux | Git + Github
+JavaScript | NodeJS | PostgresSQL | Sequelize | React | Redux | Git + Github
 
 <!-- Sección de cómo contactar -->
 ## 📫 Cómo contactarme
