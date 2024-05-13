@@ -1,6 +1,6 @@
 <!-- Encabezado con animación -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30"> ¡Hola! Soy Emmanuel Villalba <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30"> ¡Hola! Soy Gonzalo Baez <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30">
 </h1>
 
 <!-- Sección de aprendizaje actual -->
