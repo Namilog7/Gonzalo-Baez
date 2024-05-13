@@ -9,7 +9,7 @@
 
 <!-- Sección de temas para preguntar -->
 ## 💬 Pregúntame sobre
-JavaScript | TypeScript | NodeJS | PostgresSQL | MongoDB | Sequelize | React | Redux | Git + Github
+JavaScript | TypeScript | NodeJS | PostgresSQL | Sequelize | React | Redux | Git + Github
 
 <!-- Sección de cómo contactar -->
 ## 📫 Cómo contactarme
@@ -25,7 +25,7 @@ Análisis y resolución de problemas, aprendizaje ágil, colaboración y trabajo
 
 <!-- Sección de lenguajes y marcos -->
 ## Lenguajes y Frameworks
-JavaScript | Typescript | Nodejs | SQL | React | Redux | NextJS | HTML | CSS
+JavaScript | Nodejs | SQL | React | Redux | HTML | CSS
 
 <!-- Sección de software y herramientas -->
 ## Software y Herramientas
