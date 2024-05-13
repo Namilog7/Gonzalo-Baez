@@ -13,7 +13,7 @@ JavaScript | TypeScript | NodeJS | PostgresSQL | MongoDB | Sequelize | React | R
 
 <!-- Sección de cómo contactar -->
 ## 📫 Cómo contactarme
-Puedes enviarme un correo electrónico a emasv23@gmail.com
+Puedes enviarme un correo electrónico a gonzaasd7@gmail.com
 
 <!-- Sección de experiencia -->
 ## 📄 Conoce sobre mis experiencias
