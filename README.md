@@ -18,7 +18,7 @@ Profesor Asistente en Henry Bootcamp
 
 <!-- Sección de habilidades -->
 ## 📄 Habilidades blandas
-Análisis y resolución de problemas, aprendizaje ágil, colaboración y trabajo en equipo, comunicación eficaz, planificación y organización
+Análisis y resolución de problemas, aprendizaje ágil, colaboración y trabajo en equipo, comunicación eficaz
 
 <!-- Sección de lenguajes y marcos -->
 ## Lenguajes y Frameworks
