@@ -21,9 +21,9 @@ Profesor Asistente en Henry Bootcamp
 Análisis y resolución de problemas, aprendizaje ágil, colaboración y trabajo en equipo, comunicación eficaz
 
 <!-- Sección de lenguajes y marcos -->
-## Lenguajes y Frameworks
-JavaScript | Nodejs | SQL | React | Redux | HTML | CSS
+## Actualmente Aprendiendo 
+NextJS Typescript 
 
 <!-- Sección de software y herramientas -->
-## Software y Herramientas
- Sequelize | Git | Github | Insomnia
+## Herramientas
+  Git | Github | Insomnia | Trello
