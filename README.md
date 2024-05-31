@@ -14,7 +14,7 @@ Puedes enviarme un correo electrónico a gonzaasd7@gmail.com
 
 <!-- Sección de experiencia -->
 ## 📄 Conoce sobre mis experiencias
-TA en Henry Bootcamp
+TA en Henry Bootcamp.
 Software de gestión para startup que comercializa cursos a pymes [link al proyecto](https://www.youtube.com/watch?v=fVJ6mqh1T1s)
 
 <!-- Sección de habilidades -->
